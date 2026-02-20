@@ -1,6 +1,6 @@
-# 2026-SedDigital-Sisteminha
+# 2026-SegDigital-Sisteminha
 
-SedDigital Sisteminha — aplicação de linha de comando (CLI) em Python.
+SegDigital Sisteminha — aplicação de linha de comando (CLI) em Python.
 
 ## Pré-requisitos
 

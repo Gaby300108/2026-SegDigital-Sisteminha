@@ -1,10 +1,12 @@
 [project]
 name = "sisteminha"
-version = "0.1.0"
+version = "1.0.0"
 description = "SedDigital Sisteminha CLI"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "werkzeug>=3.1.6",
+]
 
 [project.scripts]
 sisteminha = "sisteminha.cli:main"
